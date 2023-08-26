@@ -1,5 +1,5 @@
 # AyushSecond
 This is my second repo.
-Author is aysuh.
+Author is ayush.
 <br>
 Author is Ayush.
